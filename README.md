@@ -28,7 +28,7 @@ I like simple solutions to hard problems.
 * Comfortable with **microservices**, but not religious about them
 * Prefer boring, well-tested solutions over flashy ones that page you at night
 
-### 🤖 Python & AI 
+### 🤖 Python 
 
 * FastAPI & Flask for **fast, clean, no-nonsense APIs**
 * Integrate machine learning models into production systems with proper versioning, monitoring, and operational ownership
