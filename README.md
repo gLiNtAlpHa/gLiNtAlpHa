@@ -4,7 +4,7 @@ Software Engineer based in **UK** 🇬🇧.
 
 I see every day as an opportunity to get better at building **world-class backend systems** 🌍, systems designed to scale under pressure, stay resilient, and earn trust through consistency.
 
-Here I share thoughts on backend engineering, AI, and system design, plus lessons learned while taking software from  127.0.0.1 all the way to production and keeping it alive there.
+Here I share thoughts on backend engineering, AI, and system design, plus lessons learned while taking software from  localhost/127.0.0.1 all the way to production and keeping it alive there.
 ---
 
 ## 🌐 About Me
